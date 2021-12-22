@@ -1,0 +1,7 @@
+{
+  "name": "CBS PLayer Test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
